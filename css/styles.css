@@ -4,9 +4,12 @@
 }
 
 .div-one{
-
+    display: flex;
 }
 
+.container{
+    
+}
 
 body{
     font-family: 'Roboto', sans-serif;
