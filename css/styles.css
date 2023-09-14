@@ -68,13 +68,18 @@ color:#404bbf;
 font-style: normal;
 }
 
+.ul-two{
+    display: flex; 
+    gap: 40px;
+    margin-right: 40px 
+}
+
 .list-first{
     font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em ;
 color:#434455;
-display: flex;
-gap: 40px;
+
 
 }
 
