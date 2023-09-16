@@ -123,6 +123,11 @@ padding: 188px 0;
     background-color: #404BBF;
     cursor: pointer;
 }
+
+.section-qualities{
+    padding: 120px 0;
+}
+
 .unordered-list-first{
 font-weight: 500;
 font-size: 20px;
