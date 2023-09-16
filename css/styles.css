@@ -11,7 +11,8 @@
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    padding: 0 15px 0 15px
+    padding: 0 15px 0 15px;
+    max-width: 496px;
 }
 
 .nav-one{
@@ -93,15 +94,13 @@ background-color:#2e2f42;
 padding: 188px 0;
 }
 
-}
-
 .head-first{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    max-width: 496px;
+   
 }
 
 .button-first{
