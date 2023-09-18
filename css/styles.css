@@ -128,6 +128,10 @@ padding: 188px 0;
     padding: 120px 0;
 }
 
+.header-qualities{
+    overflow:hidden;
+}
+
 .list-qualities{
     display: flex;
     gap: 24px;
