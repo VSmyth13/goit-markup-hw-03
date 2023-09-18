@@ -190,7 +190,12 @@ margin-bottom: 8px;
     text-transform: capitalize;
     color: #2E2F42;
     margin-bottom: 72px;
-    
+
+}
+
+.unordered-list-second{
+    display: flex;
+    gap: 24px;
 }
 
 .list-second{
