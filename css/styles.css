@@ -140,14 +140,14 @@ padding: 188px 0;
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-  
+
 .list-qualities{
     display: flex;
     gap: 24px;
 }
 
 .first-list-qualities{
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px) / 4);
 }
 
 .unordered-list-first{
