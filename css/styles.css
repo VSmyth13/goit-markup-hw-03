@@ -179,7 +179,7 @@ margin-bottom: 8px;
 .section-second{
     background-color: #F4F4FD;
     padding: 120px 0;
-    
+
 }
 
 .head-second{
@@ -189,6 +189,8 @@ margin-bottom: 8px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    margin-bottom: 72px;
+    
 }
 
 .list-second{
