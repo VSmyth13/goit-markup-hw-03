@@ -241,7 +241,6 @@ width: calc((100% - 48px) / 3);
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 }
 
 .footer{
@@ -260,6 +259,7 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 line-height: 1.2;
 letter-spacing: 0.02em;
+margin-bottom: 8px;
 }
 
 .paragraph-third{
