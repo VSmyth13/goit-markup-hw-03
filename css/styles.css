@@ -228,7 +228,10 @@ margin-bottom: 8px
 }
 
 
-
+.section-third{
+    padding-top: 120px;
+    padding-bottom: 120px; 
+}
 
 .footer{
     background-color: #2e2f42;
