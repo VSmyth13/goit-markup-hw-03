@@ -156,7 +156,7 @@ padding: 188px 0;
     gap: 24px;
 }
 
-.first-list-qualities{
+.list-qualities{
     width: calc((100% - 72px) / 4);
 }
 
