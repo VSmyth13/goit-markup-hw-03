@@ -254,6 +254,14 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
 .paragraph-footer{
     line-height: 1.5;
     color:#F4F4FD;
