@@ -173,7 +173,12 @@ img{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+    margin-bottom: 72px;
+}
 
+.lispecialist{
+    display: flex;
+    gap: 24px;
 }
 
 .specialistlist{
