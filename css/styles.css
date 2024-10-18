@@ -38,6 +38,8 @@ img{
     text-transform: uppercase;
     color:#4d5ae5;
     margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
 
 }
 
@@ -274,6 +276,4 @@ img{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
-    display: inline-block;
-    margin-bottom: 16px;
 }
