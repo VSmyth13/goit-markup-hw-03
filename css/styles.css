@@ -38,6 +38,12 @@ img{
     text-transform: uppercase;
     color:#4d5ae5;
     margin-right: 76px;
+
+}
+
+.menuwebstudio{
+    display: flex;
+    gap: 40px;
     
 }
 
