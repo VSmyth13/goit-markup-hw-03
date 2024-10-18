@@ -155,6 +155,9 @@ img{
     letter-spacing: 0.02em;
 }
 
+.strategy{
+    width: calc((100% - 72px) / 4);
+}
 .team{
     background-color: #F4F4FD;
 }
