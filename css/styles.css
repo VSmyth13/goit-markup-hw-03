@@ -135,6 +135,11 @@ img{
   overflow: hidden;
 }
 
+.menuspdt{
+    display: flex;
+    gap: 24px;
+}
+
 .spdt{
     font-weight: 500;
     font-size: 20px;
