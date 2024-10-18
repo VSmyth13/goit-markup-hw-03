@@ -153,10 +153,11 @@ img{
 .spdtp{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding-left: 0; margin: 0;
 }
 
 .spdtli{
-    padding-left: 0; margin: 0;
+   
     width: calc((100% - 72px) / 4);
 }
 .team{
