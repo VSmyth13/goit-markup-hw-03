@@ -184,7 +184,13 @@ img{
 
 .specialistlist{
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px; 
 
+}
+
+.specialistname{
+    padding: 32px 0;
+    
 }
 .specialist{
     font-weight: 500;
