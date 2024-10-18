@@ -69,6 +69,7 @@ img{
 .uladdress{
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .emailphone{
@@ -83,6 +84,8 @@ img{
 }
 .effectivesollutions{
     background-color: #2e2f42;
+    padding: 188px 0;
+    
 }
 .esyb{
     font-size: 56px;
