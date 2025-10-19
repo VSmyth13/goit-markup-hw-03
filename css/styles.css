@@ -142,6 +142,11 @@ padding: 120px 0;
       color:  #2e2f42;
 }
 
+.spdtul{
+     display: flex;
+     gap: 24px;
+}
+
 .spdtp{
       line-height: 1.5;
       letter-spacing: 0.02em;
