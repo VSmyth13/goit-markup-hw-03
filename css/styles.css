@@ -159,5 +159,12 @@ line-height: 1.07;
 
      .header{
           border-bottom:1px solid #e7e9fc;
+     }
+
+     .headerdiv{
+          display: flex;
+     }
+
+     .container{
           
      }
