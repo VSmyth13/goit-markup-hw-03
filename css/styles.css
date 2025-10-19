@@ -231,6 +231,11 @@ padding: 120px 0;
      column-gap: 24px;
      row-gap: 48px;
 }
+
+.liportfolio{
+     width: calc((100% - 48px) / 3);
+}
+
 .oplisth{
      font-weight: 500;
      font-size: 20px;
