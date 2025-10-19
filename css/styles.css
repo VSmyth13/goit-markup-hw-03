@@ -35,8 +35,9 @@ body{
      margin-right: 76px;
 }
 
-.ulheader{
+.ulheadernav{
      display: flex;
+     gap: 40px;
 }
 
 .span{
@@ -47,6 +48,7 @@ body{
       line-height: 1.5;
       letter-spacing: 0.02em;
       color:#2e2f42;
+      padding: 24px 0
 }
 .listudio:hover{
       color :#404bbf;
