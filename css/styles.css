@@ -63,7 +63,8 @@ body{
 }
 
 .uladdress{
-
+     display: flex;
+     gap: 40px
 }
 .contacts{
 font-size: 16px;
