@@ -108,13 +108,17 @@ line-height: 1.07;
       height: 56px;
       border: none;
       border-radius: 4px;
-      
 }
 .buttonos:hover{
      background-color: #404BBF;
 }
 .buttonos:focus{
      background-color: #404BBF;
+}
+
+.sectionspdt{
+padding: 120px 0;
+
 }
 
 .spdt{
