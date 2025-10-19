@@ -189,18 +189,25 @@ padding: 120px 0;
      border-radius: 0px 0px 4px 4px;
 }
 
+.specialistdiv{
+     padding: 32px 0;
+}
 .specialisth{
      font-weight: 500;
      font-size: 20px;
       line-height: 1.2;
      letter-spacing: 0.02em;
      color: #2e2f42;
+     text-align: center;
+     margin-bottom: 8px;
+
 }
 
 .specialistp{
      color:#434455;
       line-height: 1.5;
        letter-spacing: 0.02em;
+       text-align: center;
 }
 
 .ourportfolio{
