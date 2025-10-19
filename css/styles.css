@@ -244,6 +244,11 @@ padding: 120px 0;
      color: #2e2f42;
 }
 
+.divhp{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;
+}
 .opp{
      font-size: 16px;
      line-height: 1.5;
