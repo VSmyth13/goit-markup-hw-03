@@ -177,8 +177,15 @@ padding: 120px 0;
      margin-bottom: 72px;
 }
 
+.hteamul{
+     display: flex;
+     gap: 24px; 
+
+}
+
 .specialistlist{
      background-color: #FFFFFF;
+     width: calc((100% - 72px) / 4);
 }
 
 .specialisth{
