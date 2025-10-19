@@ -270,4 +270,7 @@ border-top: none;
 .spanfooter{
      color: #f4f4fd;}
 
-   
+   .logof{
+     display: inline-block; 
+     margin-bottom: 16px; 
+   }
