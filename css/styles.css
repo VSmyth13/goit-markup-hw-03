@@ -173,5 +173,5 @@ line-height: 1.07;
 
      .headernav{
           display: flex;
-
+          align-items: center;
      }
