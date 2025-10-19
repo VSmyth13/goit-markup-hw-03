@@ -144,7 +144,6 @@ padding: 120px 0;
 
 .spdtli{
     width: calc((100% - 72px) / 4);
-    flex: 0 0 auto;
 }
 
 
