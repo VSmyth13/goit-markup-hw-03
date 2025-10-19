@@ -34,6 +34,11 @@ body{
      color: #4d5ae5;
      margin-right: 76px;
 }
+
+.ulheader{
+     display: flex;
+}
+
 .span{
      color: #2e2f42;
 }
