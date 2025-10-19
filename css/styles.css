@@ -210,6 +210,11 @@ padding: 120px 0;
        text-align: center;
 }
 
+.opsection{
+     padding-top: 120px;
+     padding-bottom: 120px;
+}
+
 .ourportfolio{
      font-size: 36px;
      line-height: 1.11;
