@@ -134,6 +134,16 @@ padding: 120px 0;
   overflow: hidden;
 }
 
+.spdtul{
+     display: flex;
+     gap: 24px;
+}
+
+.spdtli{
+     width: calc((100% - 72px) / 4);
+}
+
+
 .spdt{
      font-weight: 500;
      font-size: 20px ;
@@ -142,10 +152,6 @@ padding: 120px 0;
       color:  #2e2f42;
 }
 
-.spdtul{
-     display: flex;
-     gap: 24px;
-}
 
 .spdtp{
       line-height: 1.5;
