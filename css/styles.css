@@ -41,6 +41,7 @@ img{
 .ulheadernav{
      display: flex;
      gap: 40px;
+     list-style:none;
 }
 
 .span{
@@ -68,6 +69,7 @@ img{
 .uladdress{
      display: flex;
      gap: 40px
+     list-style:none;
 }
 .contacts{
 font-size: 16px;
@@ -142,6 +144,7 @@ padding: 120px 0;
      gap: 24px;
      padding-left: 0;
      margin:0;
+     list-style:none;
 }
 
 .spdtli{
@@ -185,7 +188,8 @@ padding: 120px 0;
      display: flex;
      gap: 24px; 
      padding-left: 0;
-     margin:0;  
+     margin:0; 
+     list-style:none;
 }
 
 .specialistlist{
@@ -238,7 +242,8 @@ padding: 120px 0;
      column-gap: 24px;
      row-gap: 48px;
      padding-left: 0;
- margin:0;
+     margin:0;
+     list-style:none;
 }
 
 .liportfolio{
