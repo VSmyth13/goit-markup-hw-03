@@ -68,7 +68,7 @@ img{
 
 .uladdress{
      display: flex;
-     gap: 40px
+     gap: 40px;
      list-style:none;
 }
 .contacts{
